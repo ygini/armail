@@ -48,7 +48,7 @@ It's a good place to put LDAP settings for example.
 
 #### conf.d/example.com.conf
 
-In the conf.d folder, only *.conf file are readed. Each of this file must contain a domain configuration.
+In the conf.d folder, only *.conf file are read. Each of this file must contain a domain configuration.
 
 The system will loop on the file list a re run the process accros each one to configure the user on each domain specified here.
 
